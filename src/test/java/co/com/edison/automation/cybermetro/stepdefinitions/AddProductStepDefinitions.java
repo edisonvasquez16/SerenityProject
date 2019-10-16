@@ -24,7 +24,7 @@ import net.serenitybdd.screenplay.abilities.BrowseTheWeb;
 import net.serenitybdd.screenplay.actions.Click;
 import net.thucydides.core.annotations.Managed;
 
-public class AgregarProductoStepDefinitions {
+public class AddProductStepDefinitions {
 
 	@Managed(driver = "chrome")
 	private WebDriver herBrowser;

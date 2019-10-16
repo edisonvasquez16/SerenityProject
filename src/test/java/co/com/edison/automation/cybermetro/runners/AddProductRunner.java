@@ -13,6 +13,6 @@ import net.serenitybdd.cucumber.CucumberWithSerenity;
 		glue = "co.com.edison.automation.cybermetro.stepdefinitions",
 		snippets = SnippetType.CAMELCASE)
 
-public class AgregarProductoRunner {
+public class AddProductRunner {
 
 }

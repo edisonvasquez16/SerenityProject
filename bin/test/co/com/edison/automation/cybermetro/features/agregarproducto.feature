@@ -17,6 +17,6 @@ Feature: Add Product
     Examples: 
       | nombreProducto | numeroEjemplo  |
       | Papas Sabor BBQ Pringles Lata 124 g | 1 |
-      #| Papas Pringles Original Lata 124 g | 2 |
-      #| Cereal Chocapic Caja 400 g | 3 |
-      #| Arroz Superior Metro Bolsa 5 kg | 4 |
+      | Papas Pringles Original Lata 124 g | 2 |
+      | Cereal Chocapic Caja 400 g | 3 |
+      | Arroz Superior Metro Bolsa 5 kg | 4 |
